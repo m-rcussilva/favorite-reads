@@ -1,6 +1,6 @@
 # favorite-reads
 
-https://github.com/m-rcussilva/favorite-reads/assets/35894743/c7989dd1-4153-4fd9-9fdc-4ead2f934ad3
+<img width="1440" alt="Screenshot 2023-12-06 at 12 27 36" src="https://github.com/m-rcussilva/favorite-reads/assets/35894743/41918b36-7d74-4535-806e-0b46f3106b7a">
 
 ### To Fix:
 
@@ -9,4 +9,4 @@ https://github.com/m-rcussilva/favorite-reads/assets/35894743/c7989dd1-4153-4fd9
 ### Credit:
 
 [Spring Boot Thymeleaf Tutorial For Beginners](https://www.youtube.com/watch?v=hoVUmn8ZCOo)
-# favorite-reads
+
